@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="88202" started-at="2018-09-24T06:37:54Z" finished-at="2018-09-24T06:39:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="88202" started-at="2018-09-24T06:37:54Z" finished-at="2018-09-24T06:39:23Z">
+      <class name="freeCRM_Testing.LoginToCRM">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:freeCRM_Testing.LoginToCRM@6fa38a]" name="setUP" is-config="true" duration-ms="33271" started-at="2018-09-24T12:07:54Z" finished-at="2018-09-24T12:08:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="logInWithAdminTest()[pri:1, instance:freeCRM_Testing.LoginToCRM@6fa38a]" name="logInWithAdminTest" duration-ms="12763" started-at="2018-09-24T12:08:28Z" finished-at="2018-09-24T12:08:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInWithAdminTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:freeCRM_Testing.LoginToCRM@6fa38a]" name="tearDown" is-config="true" duration-ms="836" started-at="2018-09-24T12:08:41Z" finished-at="2018-09-24T12:08:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:freeCRM_Testing.LoginToCRM@6fa38a]" name="setUP" is-config="true" duration-ms="31800" started-at="2018-09-24T12:08:41Z" finished-at="2018-09-24T12:09:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="logInWithCustomer()[pri:2, instance:freeCRM_Testing.LoginToCRM@6fa38a]" name="logInWithCustomer" duration-ms="8650" started-at="2018-09-24T12:09:13Z" finished-at="2018-09-24T12:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInWithCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:freeCRM_Testing.LoginToCRM@6fa38a]" name="tearDown" is-config="true" duration-ms="815" started-at="2018-09-24T12:09:22Z" finished-at="2018-09-24T12:09:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- freeCRM_Testing.LoginToCRM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

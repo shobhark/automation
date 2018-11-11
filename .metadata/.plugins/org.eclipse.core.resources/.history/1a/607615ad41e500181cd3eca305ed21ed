@@ -1,0 +1,23 @@
+
+public class Duplicates {
+
+	public static void main(String[] args) {
+		
+		String str = "shobha automation test engineer automation";
+		String[] str1 = str.split(" ");
+		
+		for(int i=0;i<str1.length;i++)
+		{
+			String word=str1[i];
+			String revWord = " ";
+			for(int j=word.length()-1;j>=0;j--)
+			{
+				revWord = revWord + word.charAt(j);
+				
+			}
+			System.out.print(revWord);
+		}
+
+	}
+
+}

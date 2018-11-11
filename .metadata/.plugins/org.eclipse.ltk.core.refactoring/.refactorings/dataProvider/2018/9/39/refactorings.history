@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.datadriven.Test&apos; to &apos;dataProvider/src/test/java&apos;&#x0D;&#x0A;- Original project: &apos;dataProvider&apos;&#x0D;&#x0A;- Destination element: &apos;dataProvider/src/test/java&apos;&#x0D;&#x0A;- Original element: &apos;dataProvider/src/main/java/com.datadriven.Test&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="/src\/test\/java" element1="/src\/main\/java&lt;com.datadriven.Test" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1537717777150" version="1.0"/>
+</session>

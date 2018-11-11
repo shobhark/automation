@@ -1,0 +1,32 @@
+
+public class ReverseString {
+
+	public static void main(String[] args) {
+		
+		String str = "java   programs";
+		String str1=" ";
+		String str2 =" ";
+		
+		//int length = str.length();
+		
+		String[] strr = str.split(" ");
+		
+		for(int i=0;i<=strr.length-1;i++)
+		{
+			//System.out.print(str1[i]+" ");
+			str1 = strr[i];
+			str2 = strr[i+1];
+			
+			System.out.println(str1 +" "+str2);
+			
+		}
+//		System.out.println();
+//		for(int i=str1.length-1;i>=0;i--)
+//		{
+//			//System.out.print(str1[i]+" ");
+//			
+//		}
+//		
+	}
+
+}
